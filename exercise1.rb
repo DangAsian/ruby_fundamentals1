@@ -1,1 +1,2 @@
-puts 2 + 3 puts 2 puts !true puts "hi"
+puts "betty's pie shop"
+puts 'betty\'s pie shop'
